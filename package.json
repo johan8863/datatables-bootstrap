@@ -1,0 +1,29 @@
+{
+  "name": "datatables-bootstrap",
+  "version": "1.0.0",
+  "description": "Datatables Bootstrap Style",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johan8863/datatables-bootstrap.git"
+  },
+  "keywords": [
+    "datatables",
+    "bootstrap",
+    "css",
+    "jquery",
+    "table",
+    "tables",
+    "id",
+    "class"
+  ],
+  "author": "Johan Travieso Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johan8863/datatables-bootstrap/issues"
+  },
+  "homepage": "https://github.com/johan8863/datatables-bootstrap#readme"
+}
